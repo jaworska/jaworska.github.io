@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jaworska/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jaworska/static/js/main.7318522f.chunk.js",
+    "main.js.map": "/jaworska/static/js/main.7318522f.chunk.js.map",
+    "runtime-main.js": "/jaworska/static/js/runtime-main.712399b4.js",
+    "runtime-main.js.map": "/jaworska/static/js/runtime-main.712399b4.js.map",
+    "static/js/2.9c4ec06e.chunk.js": "/jaworska/static/js/2.9c4ec06e.chunk.js",
+    "static/js/2.9c4ec06e.chunk.js.map": "/jaworska/static/js/2.9c4ec06e.chunk.js.map",
+    "index.html": "/jaworska/index.html",
+    "precache-manifest.ac1cd62e859085e4a4ed236373126b9a.js": "/jaworska/precache-manifest.ac1cd62e859085e4a4ed236373126b9a.js",
+    "service-worker.js": "/jaworska/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/jaworska/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9c4ec06e.chunk.js.LICENSE": "/jaworska/static/js/2.9c4ec06e.chunk.js.LICENSE",
+    "static/media/logo.svg": "/jaworska/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.712399b4.js",
+    "static/js/2.9c4ec06e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7318522f.chunk.js"
+  ]
+}
